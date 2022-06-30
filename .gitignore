@@ -1,6 +1,8 @@
 # 700 MB ratings csv file
 */ratings.csv
-.DS_Store
+# Hide Config
+config.py
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -77,6 +79,8 @@ docs/_build/
 
 # PyBuilder
 target/
+
+.DS_Store
 
 # Jupyter Notebook
 .ipynb_checkpoints
