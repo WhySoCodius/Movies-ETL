@@ -1,6 +1,6 @@
 # 700 MB ratings csv file
 */ratings.csv
-
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
